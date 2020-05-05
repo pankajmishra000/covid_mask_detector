@@ -3,7 +3,9 @@
 ![Sample Output](results/sample_output.png)
 
 #Sample Training Dataset (**Mask and without mask**)
+
 ![Sample Dataset](results/0-with-mask.jpg)
+
 ![Sample Dataset](results/0.jpg)
 
 # Implementation Details
