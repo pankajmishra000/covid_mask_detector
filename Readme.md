@@ -46,4 +46,4 @@ python real_time_test.py --cascade ./haar/haarcascade_frontalface_default.xml \
 
 # 3. Special Thanks/ reference
 
-*The used dataset has been taken from Prajna Bhandary [GitHub](https://github.com/prajnasb/observations/tree/master/experiements/data) account.* 
+*The used training dataset has been taken from Prajna Bhandary [GitHub](https://github.com/prajnasb/observations/tree/master/experiements/data) account.* 
