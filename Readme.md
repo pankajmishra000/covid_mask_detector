@@ -10,8 +10,8 @@
 
 # Implementation Details
 
-As **COVID19** is talk of town, it's becaming imperative to use technology to strengthen the hands of our frontline warriors. 
-As a deep learning expert, I decided to give a quick hand to develop a model which can check in real-time, if a person is wearing mask or not.
+As **COVID19** is talk of the town, it's becoming imperative to use technology to strengthen the hands of our frontline warriors. 
+As a deep learning expert, I decided to give a quick hand to develop a model which can check in real-time, if a person is wearing a mask or not.
 Work includes transfer learning by using pre-trained weights of *MobileNet_V2*. MobileNet is very fast and able to provide realtime-inference.
 
 ## This is just proof of concept and implemented quick hand, so don't ask to fork it and use it for your purposes.
